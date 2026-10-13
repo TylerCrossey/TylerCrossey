@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hello, I'm Tyler
+
+I'm a junior computer science student The College of New Jersey, looking for a related internship for the summer of 2027.
+I enjoy creating tools to assist with repetitive tasks, and trying out different coding languages.
+
+## What I work with
+- **Languages:** C, C++, Rust, Python
+- **Tools:** Git, Linux (Arch), VS Code
+- **Currently learning:** JavaScript and CSS
+
+## Contact me:
+Email: tylercrossey@gmail.com
 
 <!--
 **TylerCrossey/TylerCrossey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
