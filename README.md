@@ -1,7 +1,7 @@
 # Hello, I'm Tyler
 
 I'm a junior computer science student The College of New Jersey, looking for a related internship for the summer of 2027.
-I enjoy creating tools to assist with repetitive tasks, and trying out different coding languages.
+I enjoy creating and optimizing tools, and trying out different coding languages.
 
 ## What I work with
 - **Languages:** C, C++, Rust, Python
